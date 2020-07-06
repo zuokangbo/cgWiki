@@ -28,7 +28,7 @@
 
 * 主要更新的地址是三个地方同步更新，互相备份。 
 * github的静态页功能(https://zuokangbo.github.io/cgWiki)
-* congding的静态页功能(https://zuokangbo.coding.me/cgWiki)
+* congding的静态页功能(http://n2m82k.coding-pages.com/docs/#/)
 * 交流论坛(http://www.artiststd.xyz/)
 
 ## 联系方式  
