@@ -4,7 +4,7 @@
 - 记录一些CG项目管道流程
 - DCC软件具体使用
 - DCC软件异常处理
-- 更多点击
+- 更多点击开始
 
 [项目Github](https://github.com/zuokangbo/cgWiki)
-[了解更多](#cg-workflow-wiki)
+[开始阅读](#cg-workflow-wiki)
