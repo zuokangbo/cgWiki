@@ -26,10 +26,10 @@
 
 ## 访问方式
 
-主要更新的地址是三个地方同步更新，互相备份。
-github的静态页功能(https://zuokangbo.github.io/cgWiki)
-congding的静态页功能(https://zuokangbo.coding.me/cgWiki)
-交流论坛(http://www.artiststd.xyz/)
+* 主要更新的地址是三个地方同步更新，互相备份。 
+* github的静态页功能(https://zuokangbo.github.io/cgWiki)
+* congding的静态页功能(https://zuokangbo.coding.me/cgWiki)
+* 交流论坛(http://www.artiststd.xyz/)
 
 ## 联系方式  
 
