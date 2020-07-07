@@ -1,1 +1,1 @@
-* [maya概述](/)
+* [maya概述](README.md "mayaIncl")
