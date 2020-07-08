@@ -1,1 +1,8 @@
 * [maya概述](README.md "mayaIncl")
+* [基本工作流](baseWorkflow/)
+* [异常处理](exceptionHanding/)
+* [小技巧类](tips/)
+* [arnold相关](arnold/)
+* [yeti相关](yeti/)
+* [vray相关](vray/)
+* [other](other/)
