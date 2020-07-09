@@ -29,3 +29,8 @@
 ### 贴图纹理
 
 * texturehaven[点击进入](https://texturehaven.com/)
+
+## 收费网站
+
+* CGAxis PBR Textures，数量和种类比较多。[点击进入](http://cgaxis.com/product-category/3d-models-collections/textures/?orderby=popularity)
+* 真实的置换 Real Displacement,扫描贴图[点击进入](https://www.rd-textures.com/product/quarry-pack-01/)
