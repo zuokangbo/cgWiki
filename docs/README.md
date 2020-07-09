@@ -57,3 +57,9 @@
 * 微信公众号：MyCGlog
 * Coding : https://zkbxej.coding.net/user
 * GitHub：https://github.com/zuokangbo
+
+## 赞赏
+
+ 如果觉得内容还是有点意思的话，就随意赞赏一下吧。
+
+![zkb](http://artiststd.xyz/zkb.jpg)
