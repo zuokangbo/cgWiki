@@ -25,12 +25,16 @@
 ### 主页
 
 > 进入网页后的主页状态：
+
 ![demo](http://artiststd.xyz/gui1.png)
 > 模块结构
+
 ![gui2](http://artiststd.xyz/gui2.png)
 > 进入子模块后，返回首页。
+
 ![gui3](http://artiststd.xyz/gui3.png)
 > 信息检索。
+
 ![gui4](http://artiststd.xyz/gui4.png)
 
 ## 关于我
