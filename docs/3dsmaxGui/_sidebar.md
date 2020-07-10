@@ -1,0 +1,8 @@
+* [3dsmax概述](3dsmaxGui/README.md "3dsmaxGuis")
+* [3dsmax二次开发](3dsmaxGui/mayadev/)
+* [基本工作流](3dsmaxGui/baseWorkflow/)
+* [异常处理](3dsmaxGui/exceptionHanding/)
+* [小技巧类](3dsmaxGui/tips/)
+* [arnold for max相关](3dsmaxGui/arnold/)
+* [vray for max相关](3dsmaxGui/vray/)
+* [other](3dsmaxGui/other/)
