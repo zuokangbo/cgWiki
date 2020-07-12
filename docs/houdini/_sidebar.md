@@ -1,0 +1,7 @@
+* [houdini概述](houdini/README.md "mayaIncl")
+* [houdini二次开发](houdini/houdinidev/)
+* [基本工作流](houdini/baseWorkflow/)
+* [异常处理](houdini/exceptionHanding/)
+* [小技巧类](houdini/tips/)
+* [arnold相关](houdini/arnold/)
+* [other](mayaGui/other/)
