@@ -51,7 +51,7 @@ PDF 版命令手册：github-git-cheat-sheet.pdf
 
 ## 相关链接
 <div style='color: green'>
-* 图解Git:[http://marklodato.github.io/visual-git-guide/index-zh-cn.html](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
-* Git社区：[https://book.git-scm.com/](https://book.git-scm.com/)
-* Github帮助:[https://docs.github.com/en](https://docs.github.com/en)
+- 图解Git:[http://marklodato.github.io/visual-git-guide/index-zh-cn.html](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+- Git社区：[https://book.git-scm.com/](https://book.git-scm.com/)
+- Github帮助:[https://docs.github.com/en](https://docs.github.com/en)
 </div>

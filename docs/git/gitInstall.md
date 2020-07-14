@@ -3,7 +3,7 @@
 <div style='color: red'>
 
 !> 在使用Git前我们需要先安装 Git。Git 目前支持 Linux/Unix、Solaris、Mac和 Windows 平台上运行。
-!> Git 各平台安装包下载地址为：[http://git-scm.com/downloads](http://git-scm.com/downloads)
+Git 各平台安装包下载地址为：[http://git-scm.com/downloads](http://git-scm.com/downloads)
 
 </div>
 
