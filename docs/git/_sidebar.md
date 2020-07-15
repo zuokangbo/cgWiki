@@ -3,3 +3,7 @@
 * [Git 工作流程](git/gitWorkflow.md)
 * [Git工作区](git/gitWork.md)
 * [Git创建仓库](git/gitCreate.md)
+* [Git基本操作](git/basicOperation.md)
+* [Git分支管理](git/branch.md)
+* [查看提交历史](git/submitHis.md)
+* [Git 标签](git/gitTag.md)
