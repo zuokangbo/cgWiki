@@ -80,7 +80,7 @@ $ cd git-1.7.2.2
 $ make prefix=/usr/local all
 $ sudo make prefix=/usr/local install
 ```
-
+</details>
 ## Windows 平台上安装
 
 在 Windows 平台上安装 Git 同样轻松，有个叫做 msysGit 的项目提供了安装包，可以到 GitHub 的页面上下载 exe 安装文件并运行：
@@ -105,7 +105,7 @@ Git 提供了一个叫做 git config 的工具，专门用来配置或读取相�
 
 这些环境变量，决定了 Git 在各个环节的具体工作方式和行为。这些变量可以存放在以下三个不同的地方：
 
-<div style='color: green;background-color = gray;'>
+<div style='background-color = gray;'>
 
 * /etc/gitconfig 文件：系统中对所有用户都普遍适用的配置。若使用 git config 时用 --system 选项，读写的就是这个文件。
 
