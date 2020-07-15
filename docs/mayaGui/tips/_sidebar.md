@@ -1,1 +1,1 @@
-* [概述](mayaGui/exceptionHanding/README.md "maya")
+* [概述](mayaGui/tips/README.md "maya")
