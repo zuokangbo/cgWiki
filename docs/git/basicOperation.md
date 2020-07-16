@@ -32,7 +32,7 @@ ls -a
 例如我们克隆 Github 上的项目：
 
 <details>
-<summary><div style='color=red'>具体代码（点击展开）</div></summary>
+<summary><div style='color:red'>具体代码（点击展开）</div></summary>
 
 ```
 $ git clone git@github.com:schacon/simplegit.git
@@ -149,7 +149,7 @@ git diff 命令显示已写入缓存与已修改但尚未写入缓存的改动�
 * 在 hello.php 文件中输入以下内容：
 
 <details>
-<summary><div style='color=red'>具体代码（点击展开）</div></summary>
+<summary><div style='color:red'>具体代码（点击展开）</div></summary>
 
 ```
 <?php
@@ -176,7 +176,7 @@ git status 显示你上次提交更新后的更改或者写入缓存的改动，
 
 接下来我们来查看下 git diff --cached 的执行效果：
 <details>
-<summary><div style='color=red'>具体代码（点击展开）</div></summary>
+<summary><div style='color:red'>具体代码（点击展开）</div></summary>
 
 ```
 $ git add hello.php 
