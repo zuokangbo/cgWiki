@@ -1,4 +1,4 @@
-* [nuke概述](nuke/nukedev/README.md "nuke")
+* [概述](nuke/nukedev/README.md "nuke")
 * [nukeForPython](nuke/nukedev/nukePython.md)
 * [nuke命令行模式](nuke/nukedev/nukeCommLine.md)
 * [剪辑管理与素材录入](nuke/nukedev/sourceimages.md)
