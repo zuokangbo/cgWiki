@@ -1,0 +1,7 @@
+* [概述](GenTerm/README.md "genTerm")
+* [动画专业术语](GenTerm/Animationterm.md)
+* [动画术语列表](GenTerm/AnimationList.md)
+* [电影专业术语大全](GenTerm/movie.md)
+* [shotgun常用词汇](GenTerm/shotgun.md)
+* [编程常用词汇](GenTerm/programme.md)
+* [虚幻4常用术语](GenTerm/ue4.md)

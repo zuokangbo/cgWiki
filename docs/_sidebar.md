@@ -1,6 +1,7 @@
-* [概述](/)
+* [概述](README.md)
 * [加入我们](joinUs.md "joinUs")
 * [主要业内相关网站](weblink/)
+* [常用软件](softwareList.md)
 * [通用术语](GenTerm/)
 * [3dsmax相关](3dsmaxGui/)
 * [maya相关](mayaGui/)
