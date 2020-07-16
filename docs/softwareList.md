@@ -6,7 +6,7 @@
 
 * 官网地址 https://www.autodesk.com.cn/products/3ds-max/overview
 
-<div style='color=red' >
+<div style = 'color:red' >
 安装包列表点击下方展开
 </div>
 
@@ -147,7 +147,7 @@ http://trial2.autodesk.com/NetSWDLD/2021/3DSMAX/35156605-CE91-4AF6-8207-56211CB3
 
 ?> 如果你不想安装新版maya，下载 https://lanzous.com/icvdmbe，将里面的两个文件复制到C:\Program Files\Autodesk\Maya2020\bin，替换。
 
-<div style='color=red' >
+<div style='color:red' >
 安装包列表点击下方展开
 </div>
 
@@ -311,14 +311,14 @@ ZBrush 2019继续在创造性和生产力的道路上与主要的新功能，允
 
 官网地址 https://www.sidefx.com/
 
-<div style='color=red' ><font size="3">
+<div style='color:red' ><font size="3">
 安装包列表点击下方展开
 </font></div>
 
 <details>
 <summary>安装包合集（点击展开）</summary>
 
-<div style='color=red' ><font size="3">
+<div style='color:red' ><font size="3">
 安装方法：
 替换版：
 </font></div>
@@ -328,7 +328,7 @@ ZBrush 2019继续在创造性和生产力的道路上与主要的新功能，允
 3、复制Crack文件夹中的文件 到c:\windows\system32，覆盖替换；
 4、重启电脑，完美享受Houdini !
 
-<div style='color=green' ><font size="3">
+<div style='color:green' ><font size="3">
 注册版 （旧版）：
 </font></div>
 
@@ -348,7 +348,7 @@ ZBrush 2019继续在创造性和生产力的道路上与主要的新功能，允
 – 复制粘贴刚才生成的keys（前5行）
 7.完成。
 
-<div style='color=green' ><font size="3">
+<div style='color:green' ><font size="3">
 注册版 （18版）：
 </font></div>
 
@@ -370,7 +370,7 @@ ZBrush 2019继续在创造性和生产力的道路上与主要的新功能，允
 复制粘贴刚才生成的keys（前5行）
 *第一行Key 应该是 SERVER 你的server_name server_code …..
 
-<div style='color=red' >
+<div style='color:red' >
 注意：安装”other keys to play with”的风险由你自己承担，这些密钥主要用于开发和调试……所以请确保你首先安装了许可证密钥。
 </div>
 
@@ -420,7 +420,7 @@ Clarisse 是专业的创造和组装的大型环境，视觉开发，灯光和�
 ?> 官方链接：使用迅雷、IDM或者其他第三方软件下载 （链接都是官方链接，已测试IDM可满速下载）
 ?> 如果下载不动，在下方留言，我会上传到网盘
 
-<div style='color=red' ><font size="3">
+<div style='color:red' ><font size="3">
 安装包列表点击下方展开
 </font></div>
 
@@ -515,7 +515,7 @@ https://quixel.com/mixer
 快速学习和免费使用
 调音台以其极富乐趣和易于使用而著称，而又不影响功能或质量。就像Bridge一样，Mixer现在也对所有人永久免费。
 
-<div style='color=red' ><font size="3">
+<div style='color:red' ><font size="3">
 安装方法：
 </font></div>
 
@@ -528,7 +528,7 @@ https://quixel.com/mixer
 官网主页 https://www.chaosgroup.com/cn/vray/maya
 
 
-<div style='color=red' ><font size="3">
+<div style='color:red' ><font size="3">
 安装方法：
 </font></div>
 
@@ -560,7 +560,7 @@ MD8 新功能介绍 ：https://www.marvelousdesigner.com/learn/learnmd8
 
 CG领域里,服装设计的效率是非常重要的
 
-<div style='color=red' ><font size="3">
+<div style='color:red' ><font size="3">
 安装方法：
 </font></div>
 
@@ -658,7 +658,7 @@ Mari4.6v3-win（官方链接）:
 
 https://thefoundry.s3.amazonaws.com/products/mari/releases/4.6v3/Mari4.6v3-win-x86-release-64.zip
 
-<div style='color=red' ><font size="3">
+<div style='color:red' ><font size="3">
 安装方法：
 </font></div>
 
@@ -678,7 +678,7 @@ Foundry已经发布了Katana 3.0，这是其视觉开发和照明工具的一个
 
 https://www.foundry.com/products/download_product?file=Katana3.6v1-win-x86-release-64.zip
 
-<div style='color=red' ><font size="3">
+<div style='color:red' ><font size="3">
 安装方法：
 </font></div>
 
@@ -702,7 +702,7 @@ Deadline是一个为Windows、Linux和Mac OSX的渲染农场提供免费的管�
 
 更新日志 https://docs.thinkboxsoftware.com/products/deadline/10.0/1_User%20Manual/manual/release-notes.html#
 
-<div style='color=red' ><font size="3">
+<div style='color:red' ><font size="3">
 安装方法：
 </font></div>
 
@@ -728,7 +728,7 @@ https://www.bilibili.com/video/bv1HK4y1s7vB
 
 新功能介绍：https://marmoset.co/posts/free-update-toolbag-3-07/
 
-<div style='color=red' ><font size="3">
+<div style='color:red' ><font size="3">
 安装方法：
 </font></div>
 
@@ -763,7 +763,7 @@ RS版本的最大的特殊性在于优化算法本身。与VS不同的是，它�
 
 DaVinci Resolve 16是世界上唯一将专业8K编辑，色彩校正，视觉效果和音频后期制作结合在一个软件工具中的解决方案！只需单击一下，即可立即在编辑，颜色，效果和音频之间切换。DaVinci Resolve Studio还是唯一为多用户协作而设计的解决方案，因此编辑者，助手，调色师，VFX艺术家和声音设计师都可以在同一项目上同时工作！无论您是单个艺术家，还是大型协作团队的成员，不难看出为什么DaVinci Resolve是高端后期制作以及在好莱坞长片，电视节目和商业广告上比其他任何软件都要精加工的标准。
 
-<div style='color=red' ><font size="3">
+<div style='color:red' ><font size="3">
 安装方法：
 </font></div>
 
