@@ -2,5 +2,4 @@
 * [工具栏菜单](nuke/baseWorkflow/toolInc.md)
 * [Nuke工作流程](nuke/baseWorkflow/nukeWork.md)
 * [Nuke中的Premult](nuke/baseWorkflow/Premult.md)
-* [节点中英文对照](nuke/baseWorkflow/nodeZhCN.md))
-
+* [节点中英文对照](nuke/baseWorkflow/nodeZhCN.md)
