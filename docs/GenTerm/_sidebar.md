@@ -5,3 +5,4 @@
 * [shotgun常用词汇](GenTerm/shotgun.md)
 * [编程常用词汇](GenTerm/programme.md)
 * [虚幻4常用术语](GenTerm/ue4.md)
+* [Blender常用词汇](GenTerm/blenderterm.md)
