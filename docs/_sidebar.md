@@ -3,6 +3,7 @@
 * [主要业内相关网站](weblink/)
 * [常用软件](softwareList.md)
 * [通用术语](GenTerm/)
+* [特效剖析视频](CGi/)
 * [3dsmax相关](3dsmaxGui/)
 * [maya相关](mayaGui/)
 * [Blender](blender/)
