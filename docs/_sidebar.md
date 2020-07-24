@@ -25,5 +25,6 @@
 * [python](python/)
 * [PyQt](pyqt/)
 * [Git](git/)
+* [个人的脚本集合](script/)
 * [其他内容](Other/)
 
