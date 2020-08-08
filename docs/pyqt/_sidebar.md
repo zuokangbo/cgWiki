@@ -2,3 +2,4 @@
 * [基本工作流](pyqt/baseWork/)
 * [异常处理](pyqt/exceptionHanding/)
 * [小技巧类](pyqt/tips/)
+* [动态添加信号](dynamicAdd.md)
